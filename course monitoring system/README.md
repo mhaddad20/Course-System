@@ -4,7 +4,7 @@
 <p align="center">
   This is my construct week project. made with Java, JDBC, and MySQL technology.
   <br/>
-  Check out my <a href="https://sanajitjana.github.io" target="_blank">Portfolio</a>
+  Check out my <a href="https://mhaddad20.github.io" target="_blank">Portfolio</a>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ So the Automated Course Monitoring System will keep the records of all the cours
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,powershell,git,github)](http://sanajitjana.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,powershell,git,github)](http://mhaddad20.github.io/)
 
 ## Features
 
